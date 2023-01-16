@@ -1,0 +1,47 @@
+[
+    {
+        "album": "Taylor Swift",
+        "lyric": {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "track_title": "Tim McGraw",
+            "track_n": "1",
+            "lyric": "When you think Tim McGraw",
+            "line": "17",
+            "year": "2006"
+        },
+        "lyric2": {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "track_title": "Tim McGraw",
+            "track_n": "1",
+            "lyric": "I hope you think of me",
+            "line": "18",
+            "year": "2006"
+        }
+    },
+    {
+        "album": "Red",
+        "lyric3": {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "track_title": "Tim McGraw",
+            "track_n": "1",
+            "lyric": "September saw a month of tears",
+            "line": "19",
+            "year": "2006"
+        }
+    },
+    {
+        "album": "Fearless",
+        "lyric4": {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "track_title": "Teardrops On My Guitar",
+            "track_n": "3",
+            "lyric": "He's the reason for the teardrops on my guitar",
+            "line": "13",
+            "year": "2006"
+        }
+    }
+]

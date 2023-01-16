@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: Helvetica;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+select {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  outline: 0;
+  border: 1px solid #C0C0C0;
+  padding: 4px;
+  border-radius: 9px;
+}
+
+option {
+  background: rgb(91, 124, 153, 0.3);
+}
+
+.lyric {
+  font-style: italic;
+}
+
+div {
+  padding-bottom: 15px;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+.footer {
+  background-color: rgba(91, 124, 153, 0.3);
+  width: 100%;
+}
+
+h1 {
+  background-color: rgba(91, 124, 153, 0.3);
+}

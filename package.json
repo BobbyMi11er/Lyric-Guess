@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "csvtojson": "^2.0.10",
+    "papaparse": "^5.3.2"
+  }
+}
